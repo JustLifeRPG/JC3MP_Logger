@@ -1,0 +1,20 @@
+{
+  "name": "serverpackage_logger",
+  "version": "1.0.0",
+  "description": "Listens to Events and automatically writes log and console outputs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.division-wolf.de:3000/Just_Cause_3/ServerPackage_Logger.git"
+  },
+  "author": "Markus 'MarkusSR1984' Schwitz | Lukas 'lazy' Lotz",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "moment": "^2.17.1",
+    "regexp": "^1.0.0"
+  }
+}

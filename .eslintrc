@@ -1,0 +1,23 @@
+{
+  "extends": "airbnb/base",
+  "env": {
+    "node": true,
+    "es6": true  
+  },
+  "globals": {
+      // TODO
+      "databaseManager": true,
+      "jcmp": true,
+      "events": true
+  },
+  "rules": {
+    "comma-dangle": 0,
+    "indent": [2, 4],
+    "no-console": 0,
+    "no-trailing-spaces": [2, { "skipBlankLines": true }],
+    "max-len": 0,
+    "object-shorthand": 0,
+    "strict": 0
+      }
+}
+
