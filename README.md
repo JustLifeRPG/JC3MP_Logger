@@ -2,6 +2,8 @@
 ## An event listening, log writing package. 
 ### Log entries are written to console
 
+# PACKAGE COOMING SOON
+
 Just load this Package before you load all the other stuff if you wish to log errors. 
 Creates 'log' directory and creates a log file for each day and each Package. 
 
